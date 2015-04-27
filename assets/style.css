@@ -267,6 +267,10 @@ li {
     z-index: 1;
 }
 
+#image2 {
+	display: none;
+}
+
 
 
 .title {
@@ -865,5 +869,8 @@ li {
     width: 500px;
 }
 
+.hideme {
+	opacity: 0;
+}
 
 

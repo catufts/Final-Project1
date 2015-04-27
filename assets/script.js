@@ -14,10 +14,16 @@ $("#image2").hover(function(){
 
 $(window).scroll(function(){
         var height = $(window).scrollTop();
-        if (height == 10) {
-        	alert("Don't forget to use coupon code HAPPY to save 50% off your first order. You'd be losing money not to!")
-        }
+        if (height == 5) {
+        	$("#image2").fadeIn();
+        };
     });
+
+    $(window).scroll(function(){
+        var height = $("#image2").fadeIn()
+    });
+
+
 
 
 
