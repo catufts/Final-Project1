@@ -237,6 +237,7 @@ li {
 	/* position: static; */
 	/* top: 10px; */
 	-webkit-filter: brightness(80%) contrast(108%);
+	-moz-filter: brightness(80%) contrast(108%);
 	border: 2px solid green;
 	margin: auto;
 }
@@ -293,6 +294,7 @@ li {
 	/* position: absolute; */
 	/* top: -24px; */
 	-webkit-filter: brightness(50%) contrast(108%);
+	-moz-filter: brightness(50%) contrast(108%);
 	border: 2px solid green;
 	/* left: -10px; */
 }
@@ -347,7 +349,7 @@ li {
     background: -o-linear-gradient(bottom,  rgba(255,255,255,0) 0%,rgba(255,255,255,1) 70%);
     background: -ms-linear-gradient(bottom,  rgba(255,255,255,0) 0%,rgba(255,255,255,1) 70%);
     background: linear-gradient(to top,  rgba(246,255,246,0) 0%,rgba(246,255,246,1) 100%);
-}
+} 
 
 #header {
     font-size: 80px;
@@ -401,7 +403,8 @@ li {
     /* z-index: 1; */   
     position: absolute;   
     /* top: -24px; */   
-    -webkit-filter: brightness(50%) contrast(108%);   
+    -webkit-filter: brightness(50%) contrast(108%);  
+    -moz-filter: brightness(50%) contrast(108%);  
     border: 2px solid green;   
     /* left: -10px; */
 }
@@ -473,6 +476,7 @@ li {
 	/* position: static; */
 	/* top: 10px; */
 	-webkit-filter: brightness(80%) contrast(108%);
+	-moz-filter: brightness(80%) contrast(108%); 
 	border: 2px solid green;
 	margin: auto;
 }
@@ -523,6 +527,7 @@ li {
 	/* position: absolute; */
 	/* top: -24px; */
 	-webkit-filter: brightness(50%) contrast(108%);
+	-moz-filter: brightness(50%) contrast(108%);
 	border: 2px solid green;
 	/* left: -10px; */
 }
@@ -608,7 +613,8 @@ li {
     /* z-index: 1; */   
     position: absolute;   
     /* top: -24px; */   
-    -webkit-filter: brightness(50%) contrast(108%);   
+    -webkit-filter: brightness(50%) contrast(108%);  
+    -moz-filter: brightness(50%) contrast(108%);   
     border: 2px solid green;   
     /* left: -10px; */
 }
@@ -690,6 +696,7 @@ li {
 	/* position: static; */
 	/* top: 10px; */
 	-webkit-filter: brightness(80%) contrast(108%);
+	-moz-filter: brightness(80%) contrast(108%);
 	border: 2px solid green;
 	margin: auto;
 }
@@ -740,6 +747,7 @@ li {
 	/* position: absolute; */
 	/* top: -24px; */
 	-webkit-filter: brightness(50%) contrast(108%);
+	-moz-filter: brightness(50%) contrast(108%);
 	border: 2px solid green;
 	/* left: -10px; */
 }
@@ -826,6 +834,7 @@ li {
     position: absolute;   
     /* top: -24px; */   
     -webkit-filter: brightness(50%) contrast(108%);   
+    -moz-filter: brightness(50%) contrast(108%);  
     border: 2px solid green;   
     /* left: -10px; */
 }
