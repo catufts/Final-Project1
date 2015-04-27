@@ -277,7 +277,7 @@ li {
     font-size: 70px;
     color: white;
     top: 200px;
-    left: 20px;
+    left: 0px;
     text-shadow: -2px 0 black, 0 2px green, 2px 0 green, 0 -2px green;
     /* z-index: 2; */
     position: absolute;
@@ -583,7 +583,7 @@ li {
     position: absolute;
     /* height: 00px; */
     width: 600px;
-    right: 50px;
+    right: 0px;
     padding: 10px;
     max-width: 1400px;
     top: 140px;
